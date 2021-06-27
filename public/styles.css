@@ -1,0 +1,19 @@
+.heading {
+  color: red;
+}
+#list {
+  color: aqua;
+}
+span {
+  background-color: chartreuse;
+}
+.food {
+  width: 100px;
+  padding: 5px;
+  height: 100px;
+}
+h2 {
+  font-weight: bold;
+  font-style: italic;
+  color: rgb(77, 21, 21);
+}
